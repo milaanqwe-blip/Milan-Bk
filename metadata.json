@@ -1,0 +1,8 @@
+{
+  "name": "Sylvan Ward",
+  "description": "An action RPG featuring Warrior, Archer, Elemental Mage, and Legendary Necromancer classes, Safe Village training, elemental combat balancing, merchant gearing, and ranking armor rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
